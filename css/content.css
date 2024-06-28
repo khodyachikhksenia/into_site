@@ -1,0 +1,2072 @@
+body{
+    overflow-x: hidden;
+}
+
+
+ .logo {
+   
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: 0vw;
+    position: fixed; 
+    z-index: 1;
+ }
+
+ .logo2{
+    
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: -5.9vw;
+    position: fixed; 
+    z-index: 1;
+ }
+
+ .logo3 {
+    
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: -4vw;
+    position: fixed; 
+    z-index: 1;
+ }
+
+ .logo4 {
+    
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: -1vw;
+    position: fixed; 
+    z-index: 1;
+ }
+
+ .logo5 {
+    
+    width: 8vw;
+    margin-left: 1vw;
+    margin-top: -715vw;
+  
+    z-index: 10;
+    position: fixed;
+ }
+
+ .logo6 {
+    
+
+        width: 8vw;
+        margin-left: 1vw;
+        margin-top: -5.9vw;
+        position: fixed; 
+        z-index: 1;
+    
+ }
+
+ .menu{
+    margin-top: 5.9vw;
+    display: flex;
+    gap: 3vw;
+
+ }
+
+ .frameone,  .frametwo , .framethree {
+    width: 30.25vw;
+    position: relative;
+   
+ }
+
+ .perspectone {
+    display: flex;
+    width: 22.5vw;
+    position: relative;
+    margin-top: 0vw;
+    margin-left: 38vw;
+ }
+    
+
+ .perspecttwo {
+    display: flex;
+    width: 22.5vw;
+    position: relative;
+    margin-top: 0vw;
+    margin-left: 38vw;
+ }
+
+ .perspectthree {
+    display: flex;
+    width: 22.5vw;
+    position: relative;
+    margin-top: 0vw;
+    margin-left: 38vw;
+ }
+    
+.firsttext {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -20vw;
+    margin-left: 2.5vw;
+}
+
+.bigphrase{
+    display: flex;
+    position: absolute;
+    width: 72vw;
+    height: 72vw;
+    
+    margin-top: -20vw;
+    margin-left: 66vw;
+    
+}
+
+.secondtext {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -16vw;
+    margin-left: 2.2vw;
+}
+
+.bigphrase2{
+    display: flex;
+    position: absolute;
+    width: 77vw;
+    height: 77vw;
+    margin-top: -25vw;
+    margin-left: 74vw;
+}
+
+.thirdtext {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -15vw;
+    margin-left: 2.2vw;
+}
+
+
+.bigphrase3 {
+    display: flex;
+    position: absolute;
+    width: 60vw;
+    height: 60vw;
+    margin-top: -8vw;
+    margin-left: 76.5vw;
+}
+
+.button1 {
+width: 20vw;
+display: flex;
+position: absolute;
+margin-top: -11vw;
+margin-left: 76vw;
+}
+
+.button2 {
+    width: 20vw;
+    display: flex;
+    position: absolute;
+    margin-top: -7vw;
+    margin-left: 76vw;
+    }
+
+.bt1 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -10vw;
+    margin-left: 77vw;
+    text-decoration: none;
+    }
+
+    .bt1:hover {
+        color: #c5c5c5;
+    }
+
+.bt2 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #ffffff;
+    margin-top: -6.2vw;
+    margin-left: 85vw;
+    text-decoration: none;
+    }
+
+    .bt2:hover {
+        color: #c5c5c5;
+    }
+
+    .bt3 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -10vw;
+        margin-left: 77vw;
+        text-decoration: none;
+        }
+
+        .bt3:hover {
+            color: #c5c5c5;
+        }
+    
+    .bt4 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #ffffff;
+        margin-top: -6.2vw;
+        margin-left: 90vw;
+        text-decoration: none;
+        }
+
+        .bt4:hover {
+            color: #c5c5c5;
+        }
+
+        .bt5 {
+            display: flex;
+            position: absolute;
+            font-family: "TT Firs Neue Educational Medium";
+            font-size: 1.5vw;
+            line-height: 2vw;
+            color: #262EDA;
+            margin-top: -10vw;
+            margin-left: 77vw;
+            text-decoration: none;
+            }
+        
+            .bt5:hover {
+                color: #c5c5c5;
+            }
+
+        .bt6 {
+            display: flex;
+            position: absolute;
+            font-family: "TT Firs Neue Educational Medium";
+            font-size: 1.5vw;
+            line-height: 2vw;
+            color: #ffffff;
+            margin-top: -6.2vw;
+            margin-left: 89vw;
+            text-decoration: none;
+            }
+    
+            .bt6:hover {
+                color: #c5c5c5;
+            }
+
+.setka {
+display: flex;
+position: relative;
+width: 70w;
+margin-left: 5vw;
+margin-top: 1vw;
+opacity: 0%;
+
+}
+
+/* пространство */
+
+.menu_img2{
+    position: absolute;
+    padding-left: 2vw;
+}
+
+
+
+.ph1 {
+display: flex;
+width: 18vw;
+height: 8vw;
+position: relative;
+margin-left: 18vw;
+margin-top: -154vw;
+margin-bottom: 120vw;
+scale: 100%;
+} 
+
+ .ph1:hover{
+    scale: 200%;
+}  
+
+
+.tph1{
+    font-family: "TT Firs Neue Educational Light";
+        font-size: 1vw;
+        margin-left: -11vw;
+        margin-top: 8.2vw;
+        color: #A2A2A2;
+}
+
+
+
+.ph2 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 47.5vw;
+    margin-top: -129vw;
+    margin-bottom: 120vw;
+    scale: 50%;
+    }
+
+    .ph2:hover{
+        scale: 185%;
+    }
+    
+
+
+.ph3 {
+        display: flex;
+        width: 18vw;
+        height: 8vw;
+        position: relative;
+        margin-left: 76vw;
+        margin-top: -125vw;
+        margin-bottom: 120vw;
+        scale: 100%;
+    }
+
+    .ph3:hover{
+        scale: 240%;
+    }
+
+
+    .tph3{
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1vw;
+        margin-left: -11vw;
+        margin-top: 8.2vw;
+        color: #A2A2A2;
+    }
+
+
+.ph4 {
+        display: flex;
+        width: 18vw;
+        height: 8vw;
+        position: relative;
+        margin-left: 5vw;
+        margin-top: -111vw;
+        margin-bottom: 120vw;
+        scale: 50%;
+    }
+
+    .ph4:hover{
+        scale: 250%;
+    }
+
+.ph5 {
+        display: flex;
+        width: 18vw;
+        height: 8vw;
+        position: relative;
+        margin-left: 34vw;
+        margin-top: -134.5vw;
+        margin-bottom: 120vw;
+        scale: 100%;
+}
+
+.ph5:hover{
+    scale: 240%;
+}
+
+.ph6 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 63.5vw;
+    margin-top: -122vw;
+    margin-bottom: 120vw;
+    scale: 50%;
+    z-index: 1;
+}
+
+.ph6:hover{
+    scale: 180%;
+}
+
+.ph7 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 4.5vw;
+    margin-top: -111vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.tph7{
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1vw;
+    margin-left: -11vw;
+    margin-top: 8.2vw;
+    color: #A2A2A2;
+   
+}
+
+.ph7:hover{
+    scale: 200%;
+}
+
+
+.ph8 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 26.5vw;
+    margin-top: -136vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+    z-index: 0;
+}
+
+
+.tph8{
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1vw;
+    margin-left: -11vw;
+    margin-top: 8.2vw;
+    color: #A2A2A2;
+   
+}
+
+
+.ph8:hover{
+    scale: 240%;
+}
+
+.ph9 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 48vw;
+    margin-top: -128vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+    z-index: 2;
+}
+
+
+.tph9{
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1vw;
+    margin-left: -11vw;
+    margin-top: 8.2vw;
+    color: #A2A2A2;
+}
+
+.ph9:hover{
+    scale: 260%;
+}
+
+
+.ph10 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 79vw;
+    margin-top: -124vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.tph10{
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1vw;
+    margin-left: -11vw;
+    margin-top: 8.2vw;
+    color: #A2A2A2;
+}
+
+.ph10:hover{
+    scale: 250%;
+}
+
+
+
+.ph11 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 16vw;
+    margin-top: -110vw;
+    margin-bottom: 120vw;
+    scale: 50%;
+}
+
+.ph11:hover{
+    scale: 190%;
+}
+
+
+.ph12 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 35vw;
+    margin-top: -134vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph12:hover{
+    scale: 260%;
+}
+
+.ph13 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 57vw;
+    margin-top: -128vw;
+    margin-bottom: 120vw;
+    scale: 50%;
+}
+
+.ph13:hover{
+    scale: 200%;
+}
+
+.ph14 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 5vw;
+    margin-top: -107vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph14:hover{
+    scale: 240%;
+}
+
+
+.ph15 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 31.5vw;
+    margin-top: -131vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph15:hover{
+    scale: 220%;
+}
+
+.ph16 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 75vw;
+    margin-top: -135vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph16:hover{
+    scale: 260%;
+}
+
+.ph17 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 12vw;
+    margin-top: -101vw;
+    margin-bottom: 120vw;
+    scale: 50%;
+}
+
+.ph17:hover{
+    scale: 270%;
+}
+
+.ph18 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 36vw;
+    margin-top: -132vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph18:hover{
+    scale: 225%;
+}
+
+
+.ph19 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 55vw;
+    margin-top: -139vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph19:hover{
+    scale: 240%;
+}
+
+
+.ph20 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 76vw;
+    margin-top: -115vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph20:hover{
+    scale: 280%;
+}
+
+.ph21 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 5vw;
+    margin-top: -105vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph21:hover{
+    scale: 290%;
+}
+
+.ph22 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 27vw;
+    margin-top: -125vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph22:hover{
+    scale: 290%;
+}
+
+.ph23 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 44vw;
+    margin-top: -142vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.tph23 {
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1vw;
+    margin-left: -11vw;
+    margin-top: 8.2vw;
+    color: #A2A2A2;
+}
+
+.ph23:hover{
+    scale: 200%;
+}
+
+.ph24 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 65vw;
+    margin-top: -123vw;
+    margin-bottom: 120vw;
+    scale: 50%;
+}
+
+.ph24:hover{
+    scale: 230%;
+}
+
+.ph25 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 13vw;
+    margin-top: -100vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph25:hover{
+    scale: 290%;
+}
+
+.ph26 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 34vw;
+    margin-top: -130vw;
+    margin-bottom: 120vw;
+    scale: 50%;
+}
+
+.ph26:hover{
+    scale: 240%;
+}
+
+
+.ph27 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 56vw;
+    margin-top: -136vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.tph27 {
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1vw;
+    margin-left: -11vw;
+    margin-top: 8.2vw;
+    color: #A2A2A2;
+}
+
+.ph27:hover{
+    scale: 220%;
+}
+
+.ph28 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 79vw;
+    margin-top: -124vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph28:hover{
+    scale: 220%;
+}
+
+.ph29 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 8vw;
+    margin-top: -102vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph29:hover{
+    scale: 240%;
+}
+
+.ph30 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 38vw;
+    margin-top: -128vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph30:hover{
+    scale: 260%;
+}
+
+.ph31 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 57vw;
+    margin-top: -139vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph31:hover{
+    scale: 250%;
+}
+
+.ph32 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 21vw;
+    margin-top: -104vw;
+    margin-bottom: 120vw;
+    scale: 100%;
+}
+
+.ph32:hover{
+    scale: 280%;
+}
+
+.ph33 {
+    display: flex;
+    width: 18vw;
+    height: 8vw;
+    position: relative;
+    margin-left: 77vw;
+    margin-top: -137vw;
+    margin-bottom: 15vw;
+    scale: 100%;
+}
+
+.ph33:hover{
+    scale: 240%;
+}
+
+.big_form {
+    margin-left: 20vw;
+    margin-top: 6vw;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.4vw;
+    color: #ffffff;
+    z-index: 2;
+    position: absolute;
+   
+}
+
+
+input {
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.4vw;
+}
+
+select {
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.4vw;
+}
+
+.box{
+    line-height: normal;
+    font-size: 1vw;
+}
+
+.book1{
+   position: relative;
+   height: 15vw;
+    width: 100vw;
+    margin-top: 4vw;
+    margin-left: 30vw;
+    padding-left: 10vw;
+    overflow: hidden;
+}
+
+
+ .line1 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: one1 13.5s linear infinite;
+    overflow: hidden;
+    
+} 
+
+@keyframes one1{
+    0% {left: -880%; top: 0%;}
+    100%{left: 60%; top: 0%;}
+}
+
+.line1:hover{
+    animation-play-state: paused;
+}
+
+.book2{
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 15vw;
+    display: flex;
+    position: relative;
+    height: 15vw;
+    overflow: hidden;
+}
+
+ .line2 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: two2 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes two2{
+    0% {left: -940%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line2:hover{
+    animation-play-state: paused;
+}
+
+.book3{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 22vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line3 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: three3 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes three3{
+    0% {left: -941%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line3:hover{
+    animation-play-state: paused;
+}
+
+.book4{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 33vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line4 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: four4 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes four4{
+    0% {left: -949%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line4:hover{
+    animation-play-state: paused;
+}
+
+
+.book5{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 26vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line5 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: five5 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes five5{
+    0% {left: -953%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line5:hover{
+    animation-play-state: paused;
+}
+
+
+.book6{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 12vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line6 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: six6 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes six6{
+    0% {left: -960%; top: 0%;}
+    100%{left: 80%; top: 0%;}
+}
+
+.line6:hover{
+    animation-play-state: paused;
+}
+
+.book7{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 18vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line7 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: seven7 13.5s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes seven7{
+    0% {left: -966%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line7:hover{
+    animation-play-state: paused;
+}
+
+.book8{
+    position: relative;
+    height: 15vw;
+    width: 100vw;
+    margin-top: 1vw;
+    margin-left: 7vw;
+    display: flex;
+    overflow: hidden;
+}
+
+ .line8 {
+    position: absolute;
+    width: 900vw;
+    height: 15vw;
+    display: flex;
+    animation: eight8 15s linear infinite;
+    overflow: hidden;
+} 
+
+@keyframes eight8{
+    0% {left: -970%; top: 0%;}
+    100%{left: 90%; top: 0%;}
+}
+
+.line8:hover{
+    animation-play-state: paused;
+}
+
+
+.pic_1{
+    width: 101vw;
+    margin-top: -5vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.pic_2{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.pic_3{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.pic_4{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.pic_5{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.pic_6{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.pic_7{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.pic_8{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.pic_9{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);;
+    position: relative;
+}
+
+.pic_10{
+    width: 101vw;
+    margin-top: 4vw;
+    margin-left: -0.5vw;
+    display: flex;
+    filter: blur(0vw);
+    position: relative;
+}
+
+.on_p1 {
+    width: 45vw;
+    margin-top: -714vw;
+    margin-left: 29.5vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+    
+}
+
+.pic_1:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p1:hover{
+     opacity: 0%;
+}
+
+.on_p2 {
+    width: 36vw;
+    margin-top: -643.7vw;
+    margin-left: 33.5vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_2:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p2:hover{
+     opacity: 0%;
+}
+
+
+.on_p3 {
+    width: 45vw;
+    margin-top: -568.5vw;
+    margin-left: 29.4vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_3:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p3:hover{
+     opacity: 0%;
+}
+
+
+.on_p4 {
+    width: 47vw;
+    margin-top: -494vw;
+    margin-left: 28.4vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_4:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p4:hover{
+     opacity: 0%;
+}
+
+
+.on_p5 {
+    width: 43vw;
+    margin-top: -421.9vw;
+    margin-left: 30.3vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_5:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p5:hover{
+     opacity: 0%;
+}
+
+
+.on_p6 {
+    width: 43vw;
+    margin-top: -350.8vw;
+    margin-left: 30.3vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_6:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p6:hover{
+     opacity: 0%;
+}
+
+
+.on_p7 {
+    width: 46vw;
+    margin-top: -280vw;
+    margin-left: 29vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_7:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p7:hover{
+     opacity: 0%;
+}
+
+
+.on_p8 {
+    width: 41vw;
+    margin-top: -204.4vw;
+    margin-left: 31vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_8:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p8:hover{
+     opacity: 0%;
+}
+
+
+.on_p9 {
+    width: 46vw;
+    margin-top: -136.5vw;
+    margin-left: 28.5vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_9:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p9:hover{
+     opacity: 0%;
+}
+
+
+.on_p10 {
+    width: 40vw;
+    margin-top: -61.2vw;
+    margin-left: 31.2vw;
+    display: flex;
+    position: absolute;
+    opacity: 100%;
+}
+
+.pic_10:hover{
+    filter: blur(0.4vw);
+    
+}
+
+.on_p10:hover{
+     opacity: 0%;
+}
+
+
+.but_1 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -648.7vw;
+margin-left: 0.3vw;
+
+}
+
+
+.bt1_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -648vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.bt1_b:hover {
+    left: 5.8vw; 
+}
+
+.exib1 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -648vw;
+    margin-left: 74.7vw;
+    }
+
+    
+
+.but_2 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: -573.4vw;
+    margin-left: 0.3vw;
+    }
+
+    .bt2_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -572.7vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+
+    .bt2_b:hover {
+        left: 5.8vw; 
+    }
+    
+
+    .exib2 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: -572.5vw;
+        margin-left: 59.4vw;
+        }
+
+.but_3 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -499.8vw;
+margin-left: 0.3vw;
+}
+
+.bt3_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -499.1vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.bt3_b:hover {
+    left: 5.8vw; 
+}
+
+
+.exib3 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -499.2vw;
+    margin-left: 69.6vw;
+    }
+
+.but_4 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: -427.3vw;
+    margin-left: 0.3vw;
+    }
+
+    .bt4_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -426.6vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+
+    .bt4_b:hover {
+        left: 5.8vw; 
+    }
+    
+
+    .exib4 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: -426.6vw;
+        margin-left: 70.6vw;
+        }
+
+
+.but_5 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -355.8vw;
+margin-left: 0.3vw;
+}
+
+.bt5_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -355.1vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.bt5_b:hover {
+    left: 5.8vw; 
+}
+
+
+.exib5 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -355vw;
+    margin-left: 66.8vw;
+    }
+
+
+.but_6 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: -284.7vw;
+    margin-left: 0.3vw;
+    }
+
+    .bt6_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -284vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+
+    .bt6_b:hover {
+        left: 5.8vw; 
+    }
+    
+
+    .exib6 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: -284.1vw;
+        margin-left: 69vw;
+        }
+    
+    
+.but_7 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -209.5vw;
+margin-left: 0.3vw;
+}
+
+.bt7_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -208.8vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.bt7_b:hover {
+    left: 5.8vw; 
+}
+
+
+.exib7 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -208.8vw;
+    margin-left: 65vw;
+    }
+
+
+.but_8 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: -141.4vw;
+    margin-left: 0.3vw;
+    }
+
+    .bt8_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -140.7vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+    
+    .bt8_b:hover {
+        left: 5.8vw; 
+    }
+    
+
+    .exib8 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: -140.6vw;
+        margin-left: 71.2vw;
+        }
+
+.but_9 {
+width: 17vw;
+display: flex;
+position: absolute;
+margin-top: -66.1vw;
+margin-left: 0.3vw;
+}
+
+.bt9_b {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Medium";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #262EDA;
+    margin-top: -65.4vw;
+    margin-left: 1.2vw;
+    text-decoration: none;
+}
+
+.bt9_b:hover {
+    left: 5.8vw; 
+}
+
+
+.exib9 {
+    display: flex;
+    position: absolute;
+    font-family: "TT Firs Neue Educational Light";
+    font-size: 1.5vw;
+    line-height: 2vw;
+    color: #A2A2A2;
+    margin-top: -65.4vw;
+    margin-left: 67.4vw;
+    }
+
+.but_10 {
+    width: 17vw;
+    display: flex;
+    position: absolute;
+    margin-top: 0vw;
+    margin-left: 0.3vw;
+    padding-bottom: 0.3vw;
+    padding-top: 0.2vw;
+    }
+
+
+    .bt10_b {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: 0.9vw;
+        margin-left: 1.2vw;
+        text-decoration: none;
+    }
+
+    .bt10_b:hover {
+        left: 5.8vw; 
+    }
+    
+
+    .exib10 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Light";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #A2A2A2;
+        margin-top: 0.7vw;
+        margin-left: 68.6vw;
+        }
+    
+
+.pack{
+    display: flex;
+    position: absolute;
+    width: 37.2vw;
+    margin-top: 5vw;
+    margin-left: -3vw;
+    z-index: 1;
+}
+
+.pack:hover{
+    opacity: 20%;
+}
+
+.pack1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 3.5vw;
+    margin-left: 2vw;
+    z-index: 0;
+}
+
+
+
+.note{
+    display: flex;
+    position: absolute;
+    width: 33.65vw;
+    margin-top: 5vw;
+    margin-left: 34vw;
+    z-index: 1;
+}
+
+.note:hover{
+    opacity: 20%;
+}
+
+.note1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 3.5vw;
+    margin-left: 36vw;
+    z-index: 0;
+}
+
+.cups{
+    display: flex;
+    position: absolute;
+    width: 34.7vw;
+    margin-top: 5vw;
+    margin-left: 67.6vw;
+    z-index: 1;
+}
+
+.cups1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 3.5vw;
+    margin-left: 69vw;
+    z-index: 0;
+}
+
+.cups:hover{
+    opacity: 20%;
+}
+
+
+
+.bag{
+    display: flex;
+    position: absolute;
+    width: 34vw;
+    margin-top: 40.7vw;
+    z-index: 2;
+}
+
+.bag:hover{
+    opacity: 20%;
+}
+
+.bag1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 39.5vw;
+    margin-left: 2vw;
+    z-index: 0;
+}
+
+.tube{
+    display: flex;
+    position: absolute;
+    width: 33.9vw;
+    margin-top: 40.7vw;
+    margin-left: 33.8vw;
+    z-index: 1;
+}
+
+.tube:hover{
+    opacity: 20%;
+}
+
+.tube1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 39.5vw;
+    margin-left: 36vw;
+    z-index: 0;
+}
+
+
+.candle{
+    display: flex;
+    position: absolute;
+    width: 34.2vw;
+    margin-top: 40.6vw;
+    margin-left: 67.6vw;
+    z-index: 1;
+}
+
+.candle:hover{
+    opacity: 20%;
+}
+
+.candle1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 39.5vw;
+    margin-left: 69vw;
+    z-index: 0;
+}
+
+.sweater{
+    display: flex;
+    position: absolute;
+    width: 34vw;
+    margin-top: 81.6vw;
+    z-index: 1;
+}
+
+.sweater1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 80.5vw;
+    margin-left: 2vw;
+    z-index: 0;
+}
+
+.sweater:hover{
+    opacity: 20%;
+}
+
+.shirt{
+    display: flex;
+    position: absolute;
+    width: 33.6vw;
+    margin-top: 79.8vw;
+    margin-left: 34vw;
+    z-index: 1;
+}
+
+.shirt1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 80.5vw;
+    margin-left: 35vw;
+    z-index: 0;
+}
+
+.shirt:hover{
+    opacity: 20%;
+}
+
+.clock{
+    display: flex;
+    position: absolute;
+    width: 32.6vw;
+    margin-top: 81.6vw;
+    margin-left: 67.6vw;
+    z-index: 1;
+}
+
+.clock1{
+    display: flex;
+    position: absolute;
+    width: 52vw;
+    margin-top: 80.5vw;
+    margin-left: 69vw;
+    z-index: 0;
+}
+
+.clock:hover{
+    opacity: 20%;
+}
+
+.menu_img{
+    width: 100%;
+
+}
+
+.menu_img1{
+    width: 100%;
+    margin-left: 1vw;
+
+}
+
+.button7 {
+    width: 20vw;
+    display: flex;
+    position: absolute;
+    margin-top: -8vw;
+    margin-left: 76vw;
+    }
+    
+    .button8 {
+        width: 20vw;
+        display: flex;
+        position: absolute;
+        margin-top: -4vw;
+        margin-left: 76vw;
+        }
+    
+    .bt7 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #262EDA;
+        margin-top: -7vw;
+        margin-left: 77vw;
+        text-decoration: none;
+        }
+    
+        .bt1:hover {
+            color: #c5c5c5;
+        }
+    
+    .bt8 {
+        display: flex;
+        position: absolute;
+        font-family: "TT Firs Neue Educational Medium";
+        font-size: 1.5vw;
+        line-height: 2vw;
+        color: #ffffff;
+        margin-top: -3.1vw;
+        margin-left: 84.5vw;
+        text-decoration: none;
+        }
+    
+        .bt2:hover {
+            color: #c5c5c5;
+        }
+
+        .forma1{
+            position: relative;
+            display: flex;
+            width: 38vw;
+            margin-left: 9vw;
+            margin-top: 5.9svw;
+            z-index: 0;
+        }
+
+        .forma2{
+            position: relative;
+            width: 23vw;
+            display: flex;
+            margin-left: 50vw;
+            margin-top: -34.1vw;
+            z-index: 0;
+        }
+
+
+.all_form{
+    z-index: 2;
+    position: absolute;
+    display: flex;
+    margin-top: -45.5vw;
+    margin-left: 8vw ;
+    
+}
+

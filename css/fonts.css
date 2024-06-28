@@ -1,0 +1,137 @@
+
+
+@font-face {
+  font-family: "TT Firs Neue Educational Regular";
+  src: url(../fonts/TT\ Firs\ Neue\ Educational\ Regular.ttf) format("truetype");
+  
+}
+
+
+@font-face {
+  font-family: "TT Firs Neue Educational Medium";
+  src: url(../fonts/TT\ Firs\ Neue\ Educational\ Medium.ttf) format("truetype");
+}
+
+
+@font-face {
+  font-family: "TT Firs Neue Educational DemiBold";
+  src: url(../fonts/TT\ Firs\ Neue\ Educational\ DemiBold.ttf) format("truetype");
+  
+}
+
+@font-face {
+  font-family: "TT Firs Neue Educational Light";
+  src: url(../fonts/TT\ Firs\ Neue\ Educational\ Light.ttf) format("truetype");
+ 
+}
+
+@font-face {
+  font-family: "IBMPlexMono-SemiBold";
+  src: url(../Fonts/IBMPlexMono-SemiBold.ttf) format("truetype");
+  font-weight: 600;
+  font-style: bold;
+}
+
+
+
+/* 
+
+@font-face {
+  font-family: "IBMPlexMono-Bold";
+  src: url(../Fonts/IBMPlexMono-Bold.ttf) format("truetype");
+  font-weight: 700;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-ExtraLight"; 
+  src: url(../Fonts/IBMPlexMono-ExtraLight.ttf) format("truetype");
+  font-weight: 200;
+  font-style: light;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-Light";
+  src: url(../Fonts/IBMPlexMono-Light.ttf) format("truetype");
+  font-weight: 300;
+  font-style: light;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-Medium";
+  src: url(../Fonts/IBMPlexMono-Medium.ttf) format("truetype");
+  font-weight: 500;
+  font-style: medium;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-Regular";
+  src: url(../Fonts/IBMPlexMono-Regular.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-SemiBold";
+  src: url(../Fonts/IBMPlexMono-SemiBold.ttf) format("truetype");
+  font-weight: 600;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-Thin";
+  src: url(../Fonts/IBMPlexMono-Thin.ttf) format("truetype");
+  font-weight: 100;
+  font-style: thin;
+} */
+
+/* italic */
+/* 
+@font-face {
+  font-family: "IBMPlexMono-BoldItalic";
+  src: url(../Fonts/IBMPlexMono-BoldItalic.ttf) format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-ExtraLightItalic";
+  src: url(../Fonts/IBMPlexMono-ExtraLightItalic.ttf) format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-Italic";
+  src: url(../Fonts/IBMPlexMono-Italic.ttf) format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-LightItalic";
+  src: url(../Fonts/IBMPlexMono-LightItalic.ttf) format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-MediumItalic";
+  src: url(../Fonts/IBMPlexMono-MediumItalic.ttf) format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-SemiBoldItalic";
+  src: url(../Fonts/IBMPlexMono-SemiBoldItalic.ttf) format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "IBMPlexMono-ThinItalic";
+  src: url(../Fonts/IBMPlexMono-ThinItalic.ttf) format("truetype");
+  font-weight: 100;
+  font-style: italic;
+} */

@@ -1,0 +1,50 @@
+@media screen and (min-width: 320px) and (max-width: 480px)  {
+  /* iPhone Portrait */
+   .menu{
+      display: flex;
+      flex-direction: column;
+   }
+
+.firsttext{
+   opacity: 0%;
+}
+
+
+.bigphrase{
+   margin-left: 5vw;
+   display: flex;
+      flex-direction: column;
+}
+
+
+.secondtext{
+   opacity: 0%;
+   
+}
+
+
+.bigphrase2{
+   margin-left: 2vw;
+   display: flex;
+      flex-direction: column;
+}
+
+.thirdtext{
+   opacity: 0%;
+}
+
+
+.bigphrase3{
+   margin-left: 10vw;
+   display: flex;
+      flex-direction: column;
+}
+
+
+
+
+
+}
+
+
+  
